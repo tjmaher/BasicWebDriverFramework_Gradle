@@ -7,4 +7,9 @@ Selenium / Java: Describes setup of an initial development environment using Gra
  <li>IntelliJ: http://www.tjmaher.com/2016/05/webdriver-development-environment-setup.html</li>
  <li>Eclipse: http://www.tjmaher.com/2016/06/webdriver-development-environment-setup.html</li>
  </ul>
+ <br>
+ Initial Unit Tests are located at:
+ <ul>
+ <li><a href="https://github.com/tjmaher/InitialWebDriverSetup_GradleJunitChromeDriver/blob/master/src/test/java/TestClass.java">TestClass.java</a></li>
+ </ul>
  
