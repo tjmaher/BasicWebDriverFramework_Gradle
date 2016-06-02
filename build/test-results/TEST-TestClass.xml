@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestClass" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-05-31T02:59:52" hostname="Circa_2011" time="24.04">
+  <properties/>
+  <testcase name="testFirefoxDriver" classname="TestClass" time="10.572"/>
+  <testcase name="testChromeDriver" classname="TestClass" time="9.685"/>
+  <testcase name="testIE11Driver" classname="TestClass" time="3.783"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4) on port 37859
+Only local connections are allowed.
+Started InternetExplorerDriver server (64-bit)
+2.39.0.0
+Listening on port 4881
+]]></system-err>
+</testsuite>
