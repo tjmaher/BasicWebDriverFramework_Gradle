@@ -15,12 +15,14 @@ Selenium / Java: Describes setup of an initial development environment using Gra
  <br>
  The Unit tests go to Dave Haeffner's The-Internet Login Page, and uses Hamcrest to assert the title is correct. 
  <br>
- Later iterations will be added to Test_The-Internet_2.0 to handle:
+ Later iterations will be added to the Test_The-Internet_2.0 project to handle:
  <ul>
- <li>Page Objects using Page Factories<.li>
+ <li>Page Objects using Page Factories</li>
  <li>Selenium Grid connectivity with Docker</li>
  <li>RemoteWebDriver and DesiredCapabilities functionality</li>
  <li>Test Logging using Log4J</li>
  </ul>
+ <br>
+ This project is kept as is, in keeping with the correspoding blog entries. 
 
  
