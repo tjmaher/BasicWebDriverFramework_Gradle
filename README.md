@@ -10,8 +10,17 @@ Selenium / Java: Describes setup of an initial development environment using Gra
  <br>
  Initial Unit Tests are located at:
  <ul>
- <li><a href="https://github.com/tjmaher/InitialWebDriverSetup_GradleJunitChromeDriver/blob/master/src/test/java/TestClass.java">TestClass.java</a></li>
+ <li><a href="https://github.com/tjmaher//BasicWebDriverFramework_Gradle/blob/master/src/test/java/TestClass.java">TestClass.java</a></li>
  </ul>
  <br>
+ The Unit tests go to Dave Haeffner's The-Internet Login Page, and uses Hamcrest to assert the title is correct. 
+ <br>
+ Later iterations will be added to Test_The-Internet_2.0 to handle:
+ <ul>
+ <li>Page Objects using Page Factories<.li>
+ <li>Selenium Grid connectivity with Docker</li>
+ <li>RemoteWebDriver and DesiredCapabilities functionality</li>
+ <li>Test Logging using Log4J</li>
+ </ul>
 
  
